@@ -23,7 +23,7 @@
 
 ## 🚀 Sobre o treinamento
 ----
-Durante esse treinamento foi construído o app wt-auth-nextjs.
+Durante esse treinamento foi construído o app jwt-auth-nextjs.
 
 ## 📝 Licença
 
